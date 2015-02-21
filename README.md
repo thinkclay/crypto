@@ -1,4 +1,4 @@
-# Crypto: Quick and simpl security for Swift
+Quick and simple security for Swift
 
 As a cryptographer, I can tell you that often the best security is the simplest. The more obfuscated the implementation is, the easier it is to miss details and to create gaping holes in your security, or worse yet: skip security because the implementation is over your head. 
 
